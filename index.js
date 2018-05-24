@@ -10,9 +10,9 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  const 'two' = 2
+  const two = 2
   var n = 601
-  return n + 'two'
+  return n + two
 
   // Feel free to move things around!
   //const two = 2
